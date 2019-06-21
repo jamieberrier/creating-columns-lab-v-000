@@ -59,6 +59,7 @@ img:hover {
   height: 100%;
 }
 .med {
+  clear: both;
   width: 200%;
   height: 200%;
 }
